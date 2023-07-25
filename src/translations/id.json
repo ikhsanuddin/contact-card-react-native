@@ -1,0 +1,11 @@
+{
+    "common": {
+        "search": "Pencarian",
+        "lang": "Bahasa"
+    }, 
+    "navigation": {
+        "setting": "Pengaturan",
+        "contact": "Kartu",
+        "contactAdd": "Tambah Kartu"
+    }
+}

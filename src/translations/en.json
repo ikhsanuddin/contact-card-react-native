@@ -1,0 +1,26 @@
+{
+    "common": {
+        "search": "Search",
+        "lang": "Language",
+        "save": "Save",
+        "edit": "Edit",
+        "fav": "Favourite",
+        "unfav": "Unavourite",
+        "age": "Age",
+        "firstName" : "First Name",
+        "lastName" : "Last Name",
+        "newCardSave" : "New card saved!"
+    }, 
+    "navigation": {
+        "setting": "Setting",
+        "card": "Card",
+        "cardAdd": "Add Card",
+        "cardEdit": "Edit Card"
+    },
+    "error": {
+        "deleteTitle": "Unable to delete the card",
+        "editTitle": "Unable to update the card",
+        "addTitle": "Unable to add a card",
+        "getTitle": "Unable to get your card"
+    }
+}
