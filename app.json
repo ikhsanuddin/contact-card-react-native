@@ -22,13 +22,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#111827"
-      }
+      },
+      "package": "com.ikhsanuddin.contact"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-localization"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e5d4357d-178b-4247-9357-dc9ba253810e"
+      }
+    }
   }
 }
